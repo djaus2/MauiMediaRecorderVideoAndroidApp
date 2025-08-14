@@ -1,4 +1,4 @@
 # MauiMediaRecorderVideoAndroidApp
 This is repository has been renamed AthsVideoRecording
 
-[AthsVideoRecording](github.com/djaus2/AthsVideoRecording)
+[djaus2/AthsVideoRecording](https://github.com/djaus2/AthsVideoRecording)
